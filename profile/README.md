@@ -1,4 +1,4 @@
-![Banner](./assets/banner.png)
+![Banner](/profile/assets/banner.png)
 
 # About us
 ## Hi, everybody! We are Foodwise!  
