@@ -2,8 +2,8 @@
 
 # About us
 ## Hi, everybody! We are Foodwise!  
-In August 2022 together with our team: Mary Yanbergs, Platon Heaven, Oleksandr Oblanov and Danyil Tkachenko we have started working on this startup!  
-**Foodwise** is a cut-priced food ordering service. The goal of our project is to connect customers interested in saving their own budget with food establishments. Our service will help increase the profit of small and medium-sized businesses by selling products whose shelf life is coming to an end. Through our upcoming mobile application, the user will have the opportunity to purchase discounted food in advance and be sure that it will reach him.
+In August 2022 together with our team: Mary Yanbergs, Platon Heivan, Oleksandr Oblanov and Danyil Tkachenko we have started working on this startup!  
+**Foodwise** is a cut-priced food ordering service. The goal of our project is to connect users interested in saving their own budget with food establishments. Our service will help increase the profit of small and medium-sized businesses by selling products whose shelf life is coming to an end. Through our upcoming mobile application, the user will have the opportunity to purchase discounted food in advance and be sure that it will reach him.
 
 # What we suggest
 Mobile app that will connect consumers with small and medium-sized businesses that have unsold food with small expiration date.  
